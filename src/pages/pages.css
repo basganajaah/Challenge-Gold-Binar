@@ -1,0 +1,28 @@
+.filter-section {
+  display: flex;
+}
+
+@media (min-width: 1200px) {
+  .car-choosen {
+    margin-left: px;
+  }
+}
+
+
+.list-detail-car {
+  color: #8a8a8a;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.btn-sewa-car {
+  background-color: #5cb85f;
+  padding: 10px 35px;
+  border-radius: 5px;
+  border-color: transparent;
+  color: #fff;
+  font-weight: 640;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  width: 100%;
+}
